@@ -31,7 +31,7 @@ public class Calculadoraimc {
 	        } else if (imc >= 35 && imc < 39.9) {
 	            System.out.println("Você está com obesidade grau 2!");
 	        } else {
-	            System.out.println("Você está com obesidade grau 3!");
+	            System.out.println("Você está com obesidade grau 3 (obesidade mórbida)!");
 	        }
 
 	        sc.close(); 		
